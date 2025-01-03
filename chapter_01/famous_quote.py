@@ -1,3 +1,4 @@
+
 name = "john naisbitt"
 quote = "We are drowning in information but starving for knowledge."
 
