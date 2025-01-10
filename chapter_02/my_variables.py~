@@ -1,0 +1,7 @@
+# my_variables.py
+age = 54
+sign = "Virgo"
+eye_color = "brown"
+hair_color = "brown"
+number_of_children = 1
+
